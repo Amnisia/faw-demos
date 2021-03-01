@@ -1,0 +1,16 @@
+{
+    "tutorials": [
+        {            
+            "title": "Repository Overview",
+            "filename": "./DemoOverview/OverviewREADME.md"
+        },
+        {            
+            "title": "FAW ERP Demo",
+            "filename": "./DemoERP/DemoGuideERP.md"
+        },
+        {            
+            "title": "FAW HCM Demo",
+            "filename": "./DemoHCM/DemoGuideHCM.md"
+        }
+     ]
+}
